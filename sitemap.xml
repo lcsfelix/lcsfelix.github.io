@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://lcsfelix.me/404/</loc>
-  </url>
-  
-  <url>
     <loc>http://lcsfelix.me/categories/</loc>
   </url>
   
@@ -19,7 +15,7 @@
   </url>
   
   <url>
-    <loc>http://lcsfelix.me/404/404/</loc>
+    <loc>http://lcsfelix.me/404/</loc>
   </url>
   
 </urlset>

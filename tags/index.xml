@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on TITLE</title>
     <link>http://lcsfelix.me/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on TITLE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 09:19:29 -0400</lastBuildDate>
     
 	<atom:link href="http://lcsfelix.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>hugo</title>
-      <link>http://lcsfelix.me/tags/hugo/</link>
-      <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
-      
-      <guid>http://lcsfelix.me/tags/hugo/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
